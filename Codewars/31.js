@@ -1,8 +1,6 @@
-// https://www.codewars.com/kata/51c8991dee245d7ddf00000e/
+// https://www.codewars.com/kata/5a023c426975981341000014/
 
-function reverseWords(str){
-  let a = str.split(' ');
-  let b = a.reverse();
-  let c = b.join(' ')
+function otherAngle(a, b) {
+  let c = 180 - (a + b);
   return c;
 }
