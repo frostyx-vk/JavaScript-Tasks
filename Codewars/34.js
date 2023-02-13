@@ -2,5 +2,5 @@
 
 function invert(array) {
   let a = array.map(item => item * -1)
-   return a
+  return a
 }
