@@ -8,9 +8,3 @@ function alienLanguage(str) {
 
   return result.join(' ');
 }
-
- //   let strUp = str.toUpperCase();
- //   let words = strUp.split(" ");
- //   for (let i = 0; i < words.length; i++){
- //    words[i]=words[i].replace(words[i][words[i].length-1],words[i][words[i].length-1].toLowerCase());
- // }
