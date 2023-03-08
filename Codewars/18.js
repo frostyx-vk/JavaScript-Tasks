@@ -10,16 +10,4 @@ function splitAndMerge(string, separator) {
 
   return a.join(' ');
 
-  ///////// 2
-  //   const splitted =  string.split(' ');
-
-  //   const joindBySeparator = splitted.map(item => item.split('').join(separator));
-
-  //   return joindBySeparator.join(' ');
-
-  //////// 1 
-  //   return string
-  //     .split(' ')
-  //     .map(item => item.split('').join(separator))
-  //     .join(' ')
 }
