@@ -18,4 +18,3 @@ function cutIt(arr) {
   
     return newValue;
   }
-  
