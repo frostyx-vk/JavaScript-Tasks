@@ -6,8 +6,6 @@ for (let i = 1; i < 10; i++) {
   arr[i] = [...Array(10)].map((_, j) => i * j);
 }
 
-console.log(arr)
-
 // Делаем таблицу текстом
 let s = '';
 for (let i = 1; i < 10; i++) {
