@@ -3,14 +3,14 @@
 function countSheeps(arrayOfSheep) {
 
   let num = 0;
-  
-  for (let arr of arrayOfSheep){
+
+  for (let arr of arrayOfSheep) {
     console.log(arr)
-    if(arr === undefined){
+    if (arr === undefined) {
       arr = 0
     }
     num = num + +arr
-    
+
   }
   return num;
 }
