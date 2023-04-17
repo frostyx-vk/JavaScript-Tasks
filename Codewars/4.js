@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/571effabb625ed9b0600107a/
+// https://www.codewars.com/kata/571effabb625ed9b0600107a
 
 function getLength(arr) {
   let array = arr.length;
