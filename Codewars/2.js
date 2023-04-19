@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/571edd157e8954bab500032d/
+// https://www.codewars.com/kata/571edd157e8954bab500032d
 
 let v1 = 50,
   v2 = 100,
