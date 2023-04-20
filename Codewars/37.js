@@ -8,4 +8,3 @@ function powersOfTwo(n) {
   }
   return a
 }
-
