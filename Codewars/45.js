@@ -3,4 +3,4 @@
 const stringToNumber = function (str) {
   let a = +(str)
   return a;
-}
+};
