@@ -7,4 +7,4 @@ function isPalindrome(x) {
     console.log(x)
     return false
   }
-}
+};
